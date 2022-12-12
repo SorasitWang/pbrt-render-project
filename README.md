@@ -3,7 +3,7 @@
 Realtime Computer Graphics and Physics Simulation 2110514 (2022/1)
 
 
-### Thanks for helpful free resource   :
+### Thanks for helpful free resources   :
 
 Leaf model and textures : https://www.cgtrader.com/free-3d-models/plant/leaf/dead-leaf
 
