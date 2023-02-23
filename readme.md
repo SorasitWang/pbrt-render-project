@@ -28,7 +28,7 @@ https://www.pbrt.org/fileformat-v3
 
 ### Code Files
 - animate.py => Animate fluid simulation from density grid value.
-- density.py => Calculate density value for vexel by distance function.
+- density.py => Calculate density value for vexel by distance function + AABB.
 - grammar.py => l-system parser, see **Python l-system**.
 - pbrtGen.py => Convert position and object into pbrt file sturcture.
 - hair.py => Generate hair position (for each particle).
