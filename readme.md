@@ -40,6 +40,8 @@ https://www.pbrt.org/fileformat-v3
 ### Report 
 [finalproject_report.pdf](https://github.com/SorasitWang/pbrt-render-project/files/10607844/finalproject_report.pdf) (Thai)
 
+### Presentation
+https://youtu.be/yrDMuLmWuVs (Thai)
 
 ### Result
 ![final](https://user-images.githubusercontent.com/60053627/218492901-d21ede17-8a61-4147-ad18-75aea97bc5a5.jpg)
